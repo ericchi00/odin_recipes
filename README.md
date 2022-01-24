@@ -1,2 +1,2 @@
 # odin_recipes
-odin recipes lesson on The Odin Project
+This project is based on the "Project: Recipes" lesson where I will be learning HTML and creating a basic recipe list using lists 
